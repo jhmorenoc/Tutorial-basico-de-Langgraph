@@ -1,0 +1,20 @@
+# Core LangChain and LangGraph libraries
+langchain-google-genai>=1.0.0
+langgraph>=0.2.0
+pydantic>=2.5.0
+
+# Data type extensions
+typing-extensions>=4.8.0
+
+# Jupyter notebook support
+ipython>=8.10.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0 
