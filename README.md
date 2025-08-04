@@ -134,7 +134,7 @@ Demo_Lg/
 │   ├── 1 LLM estructurado.ipynb         # Salidas estructuradas
 │   ├── 2 Encadenamiento de Prompts.ipynb # Secuencias de prompts
 │   ├── 3 Paralelizado.ipynb             # Procesamiento paralelo
-│   ├── 4 Enrutador copy.ipynb           # Enrutamiento condicional
+│   ├── 4 Enrutador.ipynb           # Enrutamiento condicional
 │   ├── 5 Orquestador.ipynb              # Orquestación de agentes
 │   ├── 6 evaluador-optimizador.ipynb    # Evaluación automática
 │   ├── 7 Agente con memoria.ipynb       # Agentes con memoria
@@ -178,4 +178,5 @@ Demo_Lg/
 
 - **Jorge Moreno**  
   [LinkedIn](https://www.linkedin.com/in/johmorenoco/)
+
 
