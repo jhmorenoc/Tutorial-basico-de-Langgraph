@@ -1,0 +1,23 @@
+# FastAPI y servidor web
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# LangGraph y LangChain
+langgraph==0.2.16
+langchain-core==0.3.0
+langchain-google-genai==2.0.0
+
+# Modelos de datos
+pydantic==2.5.0
+
+# Utilidades
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Testing (opcional para desarrollo)
+pytest==7.4.3
+httpx==0.25.2
+
+# Documentación API (incluido en FastAPI pero útil para desarrollo)
+# swagger-ui-bundle (incluido en FastAPI)
+# redoc (incluido en FastAPI)
